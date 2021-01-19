@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509064152783",
+    "firebase_url": "https://drugshoppa-bcabd.firebaseio.com",
+    "project_id": "drugshoppa-bcabd",
+    "storage_bucket": "drugshoppa-bcabd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509064152783:android:cefa2c7e479279ee5899ba",
+        "android_client_info": {
+          "package_name": "com.ouchestechnology.drugshoppa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509064152783-adktcp83uu2skld0fvqdgte6k0dq18s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3dE698DJQDIyMJAJv-TRigAU7JpXaOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509064152783-adktcp83uu2skld0fvqdgte6k0dq18s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

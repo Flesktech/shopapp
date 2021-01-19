@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "DrugShoppa",
+    "slug": "DrugShoppa",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "icon.png",
+    "splash": {
+      "image": "ss.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.ouchestechnology.drugshoppa",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": ""
+    },
+    "description": ""
+  }
+}
